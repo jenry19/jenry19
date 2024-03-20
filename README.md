@@ -21,6 +21,7 @@ Me recibí como **técnico en programación de software** en el año 2022, y est
 
 <h1>Manejo:</h1>
 <hr>
+<div class="d-flex">
 <img src="lang/php.svg" alt="php"></img>  
 <img src="lang/java.svg" alt="java"></img>
 <img src="lang/javaScript.svg" alt="javaScript"></img>
@@ -37,6 +38,7 @@ Me recibí como **técnico en programación de software** en el año 2022, y est
 <img src="lang/tailwind.svg "alt="tailwind"></img>
 <img src="lang/css.svg "alt="css"></img>
 <img src="lang/mysql.svg "alt="mysql"></img>
+</div>
 
 
 
