@@ -8,7 +8,7 @@
 <!-- **jenry19/jenry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 Me recibí como **técnico en programación de software** en el año 2022, y estoy en busca de un nuevo trabajo. Actualmente estoy cursando **Tecnologo en analisis y desarrollo de software** con el objetivo de convertirme en **desarrollador fullStack**.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,27 +17,26 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<div class="grid text-center">
-<div class="g-col-4"><h1>Lenguajes</h1></div>
-</div>
+- ⚡ Fun fact: ... -->
+
+<h1>Manejo:</h1>
 <hr>
-<div class="container text-center">
-  <div class="row align-items-start">
-    <div class="col">
-      <img src="lang/php.svg"></img> 
-    </div>
-    <div class="col">
-    <img src="lang/java.svg"></img>
-    </div>
-    <div class="col">
-      <img src="lang/javaScript.svg"></img>
-    </div>
-    <div class="col">
-    <img src="lang/python.svg"></img>
-    </div>
-  </div>
-</div>
+<img src="lang/php.svg" alt="php"></img>  
+<img src="lang/java.svg" alt="java"></img>
+<img src="lang/javaScript.svg" alt="javaScript"></img>
+<img src="lang/python.svg" alt="python"></img>
+<img src="lang/sql.svg" alt="sql"></img>
+<img src="lang/laravel.svg "alt="laravel"></img>
+<img src="lang/springboot.svg "alt="springboot"></img>
+<img src="lang/angular.svg "alt="angular"></img>
+<img src="lang/react.svg "alt="react"></img>
+<img src="lang/ofice.svg "alt="ofice"></img>
+<img src="lang/powerbi.svg "alt="powerbi"></img>
+<img src="lang/node.svg "alt="node"></img>
+<img src="lang/bootstrap.svg "alt="bootstrap"></img>
+<img src="lang/tailwind.svg "alt="tailwind"></img>
+<img src="lang/css.svg "alt="css"></img>
+<img src="lang/mysql.svg "alt="mysql"></img>
 
 
 
