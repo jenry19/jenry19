@@ -5,7 +5,8 @@
 
 
 
-**jenry19/jenry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jenry19/jenry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Me recibí como **técnico en programación de software** en el año 2022, y estoy en busca de un nuevo trabajo. Actualmente estoy cursando **Tecnologo en analisis y desarrollo de software** con el objetivo de convertirme en **desarrollador fullStack**.
 
 Here are some ideas to get you started:
 
@@ -17,48 +18,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<div class="grid text-center">
+<div class="g-col-4"><h1>Lenguajes</h1></div>
+</div>
+<hr>
 <div class="container text-center">
-  <div class="row align-items-center">
-    <div class="col p-3">
-      <!-- card -->
-      <div class="card align-items-center" style="width: 13rem;">
-  <img src="lang/php.svg" class="card-img-top" alt="..." style="width: 9em;">
-  <div class="card-body">
-    <h5 class="card-title">Php</h5>
-    
-  </div>
-</div>
+  <div class="row align-items-start">
+    <div class="col">
+      <img src="lang/php.svg"></img> 
     </div>
-    <div class="col p-3">
-    <div class="card align-items-center" style="width: 13rem;">
-  <img src="lang/javaScript.svg" class="card-img-top" alt="..." style="width: 9em;">
-  <div class="card-body">
-    <h5 class="card-title">Javascript</h5>
-    
-  </div>
-</div>
-    </div> 
-     <div class="col p-3">
-    <div class="card align-items-center" style="width: 13rem;">
-  <img src="lang/java.svg" class="card-img-top" alt="..." style="width: 9em;">
-  <div class="card-body">
-    <h5 class="card-title">Java</h5>
-    
-  </div>
-</div>
+    <div class="col">
+    <img src="lang/java.svg"></img>
     </div>
-    <div class="col p-3">
-      <div class="card align-items-center" style="width: 13rem;">
-  <img src="lang/python.svg" class="card-img-top" alt="..." style="width: 9em;">
-  <div class="card-body">
-    <h5 class="card-title">Pyhton</h5>
-    
-  </div>
-</div>
+    <div class="col">
+      <img src="lang/javaScript.svg"></img>
+    </div>
+    <div class="col">
+    <img src="lang/python.svg"></img>
     </div>
   </div>
 </div>
+
 
 
 
