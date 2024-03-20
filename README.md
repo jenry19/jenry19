@@ -1,11 +1,6 @@
 ### Hola 👋
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
-
-
-
-
-<!-- **jenry19/jenry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 Me recibí como **técnico en programación de software** en el año 2022, y estoy en busca de un nuevo trabajo. Actualmente estoy cursando **Tecnologo en analisis y desarrollo de software** con el objetivo de convertirme en **desarrollador fullStack**.
 
 <!-- Here are some ideas to get you started:
