@@ -71,3 +71,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/jenry19/jenry19/output/snake.svg" alt="Snake animation" />
+
+###
