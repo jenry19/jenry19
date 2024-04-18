@@ -11,6 +11,10 @@
 
 ###
 
+<h2 align="left">Tecnologias</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -39,6 +43,10 @@
 
 ###
 
+<h2 align="left">Contactame!</h2>
+
+###
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"  />
 
 ###
@@ -62,6 +70,4 @@
 </div>
 
 ###
-
-
 
