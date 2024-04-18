@@ -47,10 +47,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"  />
-
-###
-
 <div align="left">
   <a href="https://discord.com/users/668990764415451170" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -68,6 +64,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"  />
 
 ###
 
